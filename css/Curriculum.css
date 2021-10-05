@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+    margin:20px;
+    border: solid gray 2px;
+    
+}
+header{
+    text-align: center;
+    margin:10px;
+    border: solid gray 2px;
+}
+
+
+.Red{
+    color: red;
+    width: 100%;
+    height: 20px;
+    background-color: gray;
+    font-weight: 500px;
+    margin: 15px;
+    border: solid gray 2px;
+}
+
+.Violet{
+    color: rgb(206, 25, 206);
+    background-color: rgba(128, 123, 123, 0.534);
+    width: 100%;
+    margin-left: 15px;
+    border: solid gray 2px;
+}
+
+
+.datapersonal{
+    width: 100%;
+    height: 125px;
+    background-color:rgba(128, 128, 128, 0.247);
+    margin: 15px;
+    border: solid gray 2px;
+}
+
+.blue{
+    color:blue;
+    border: solid gray 2px;
+}
+
+.date{
+    color: green;
+    background-color:rgba(128, 128, 128, 0.247);
+    margin-left: 15px;
+    border: solid gray 2px;
+}
+
+.black{
+    color: black;
+    border: solid gray 2px;
+}
+
+.white{
+    margin: 5px;
+    margin-left: 12px;
+    border: solid gray 2px;
+}
+
+.blue2{
+    color: blue;
+    margin-left: 8px;
+    background-color:rgba(128, 128, 128, 0.247);
+    border: solid gray 2px;
+
+}
+
+.lenguajes{
+    width: 100%;
+    height: 60px;
+    margin: 10px;
+    border: solid gray 2px;
+}
+
+
+.org, .tec{
+    margin:15px 0px 15px 0px;
+    border: solid gray 2px;
+}
